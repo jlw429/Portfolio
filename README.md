@@ -10,7 +10,7 @@ Very proud that this is the start of my portfolio. I know I will look back on th
 
 Screenshots of validator. The only thing it got was links that were dead? However going back they worked or did the job. IE- Stylesheet for google fonts. 
 
-Index Validator
-Portfolio Validator
-Contact me Validator: assets/W3C Link Checker  https   jlw429.github.io PortfolioHW2 contact.html.png
+Index [Validator](https://github.com/jlw429/PortfolioHW2/blob/main/assets/W3C%20Link%20Checker%20%20https%20%20%20jlw429.github.io%20PortfolioHW2%20index.html.png)
+Portfolio [Validator](https://github.com/jlw429/PortfolioHW2/blob/main/assets/W3C%20Link%20Checker%20%20https%20%20%20jlw429.github.io%20PortfolioHW2%20portfolio.html.png)
+Contact me [Validator](https://github.com/jlw429/PortfolioHW2/blob/main/assets/W3C%20Link%20Checker%20%20https%20%20%20jlw429.github.io%20PortfolioHW2%20contact.html.png)
 
