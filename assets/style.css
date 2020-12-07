@@ -19,7 +19,9 @@ footer {
 }
 
 #footer-text {
-    font-size: 8px;
+    font-size: 9px;
+    text-align: right;
+    color: white
 }
 
 a {
@@ -39,4 +41,27 @@ img {
 .navhead {
     font-size: 12px;
     font-family: 'Montserrat', sans-serif;
+
 }
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    }
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jsc {
+    font-size: 20px;
+    text-align: center;
+    }
