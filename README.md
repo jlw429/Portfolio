@@ -12,4 +12,5 @@ Screenshots of validator. The only thing it got was links that were dead? Howeve
 
 Index Validator
 Portfolio Validator
-Contact me Validator
+Contact me Validator: assets/W3C Link Checker  https   jlw429.github.io PortfolioHW2 contact.html.png
+
