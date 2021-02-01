@@ -6,7 +6,7 @@ I decided to axe the contact me page. I currently have my resume on the page for
 
 Colors have been updated to reflect my styling preferences.
 
-[Resume-](https://github.com/jlw429/PortfolioHW2/blob/main/assets/Resume-%20Jason%20West.pdf)
+[Resume](https://github.com/jlw429/PortfolioHW2/blob/main/assets/Resume-%20Jason%20West.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/jasonlwest/)
 
