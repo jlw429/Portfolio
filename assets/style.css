@@ -1,6 +1,7 @@
 body {
-    background-color: lightblue;
+    background-color:steelblue;
     font-family: 'montserrat', sans-serif;
+    color: white;
     
 }
 
@@ -21,6 +22,12 @@ a {
 
 img {
     border: royalblue;
+    margin-bottom: 15px;
+}
+
+.picture {
+    line-height: 1.5rem;
+    text-align: justify;
 }
 
 .navtitle {
@@ -35,17 +42,7 @@ img {
 
 }
 
-.card-text {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
-    text-align: justify;
-    
-}
 
-.card-img-top {
-    width: 100%;
-    height: 30vw;
-    }
 .card-title {
     font-size: 20px;
     text-align: center;
@@ -56,3 +53,24 @@ img {
     font-size: 20px;
     text-align: center;
     }
+
+.card-img-top {
+    height: 300px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.most-recent {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+    text-align: justify;
+}
+
+#resume-text {
+    text-align: center;
+}
