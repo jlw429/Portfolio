@@ -6,12 +6,12 @@ I decided to axe the contact me page. I currently have my resume on the page for
 
 Colors have been updated to reflect my styling preferences.
 
-![Resume-](/assets/Resume- Jason West.pdf)
+![Resume-](https://github.com/jlw429/PortfolioHW2/blob/main/assets/Resume-%20Jason%20West.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/jasonlwest/)
 
 ## Screenshots
 
-![Front-Page](/assets/readme screenshot main.png)
+![Front-Page](https://github.com/jlw429/PortfolioHW2/blob/main/assets/readme%20screenshot%20main.png)
 
-![Portfolio](/assets/readme screenshot portfolio.png)
+![Portfolio](https://github.com/jlw429/PortfolioHW2/blob/main/assets/readme%20screenshot%20portfolio.png)
