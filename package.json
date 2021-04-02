@@ -1,0 +1,28 @@
+{
+  "name": "PortfolioHW2",
+  "version": "1.0.0",
+  "description": "Portfolio has been updated from week 2 and have added our group project, weather api dashboard, day planner and multiple choice quiz.",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlw429/PortfolioHW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlw429/PortfolioHW2/issues"
+  },
+  "homepage": "https://github.com/jlw429/PortfolioHW2#readme"
+}

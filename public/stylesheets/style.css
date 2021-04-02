@@ -1,0 +1,86 @@
+body {
+  background-color: steelblue;
+  font-family: 'montserrat', sans-serif;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem; /* Footer height */
+}
+
+#footer-text {
+  font-size: 9px;
+  text-align: right;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+img {
+  border: black;
+  border-style: solid;
+  margin-bottom: 15px;
+}
+
+.picture {
+  line-height: 1.5rem;
+  text-align: justify;
+}
+
+.navtitle {
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.navhead {
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-title {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.jsc {
+  font-size: 20px;
+  text-align: center;
+}
+
+.card-img-top {
+  height: 300px;
+  width: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.most-recent {
+  display: flex;
+  justify-content: center;
+}
+
+.card-body {
+  text-align: justify;
+}
+
+#resume-text {
+  text-align: center;
+}
+
+textarea {
+  width: 300px;
+  height: 1000px;
+}
