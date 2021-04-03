@@ -33,7 +33,7 @@ module.exports = (app) => {
         console.log(err);
       } else {
         console.log('email sent.');
-        res.redirect('./success.html');
+        res.redirect('https://jasonlwest.com/success.html');
       }
     });
     // res.redirect('/');
