@@ -1,5 +1,5 @@
 const express = require('express');
-const session = require('express-session');
+const app = express();
 require('dotenv').config();
 
 const PORT = process.env.PORT || 8080;
@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/public'));
 
 //routes
-require('./routes/api_routes')(app);
+// require('./routes/api_routes')(app);
 require('./routes/html_routes')(app);
 
 app.listen(PORT, () =>

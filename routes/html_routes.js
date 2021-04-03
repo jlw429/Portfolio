@@ -1,5 +1,6 @@
 const path = require('path');
 require('dotenv').config();
+const sgMail = require('@sendgrid/mail');
 
 module.exports = (app) => {
   app.get('/', (req, res) => {
@@ -16,23 +17,25 @@ module.exports = (app) => {
 
   app.post('/send_email', (req, res) => {
     console.log(req.body);
-    let from = req.body.email;
+    let email = req.body.email;
     let message = req.body.message;
     let subject = req.body.subject;
     sgMail.setApiKey(process.env.SENDGRID_KEY);
     const msg = {
       to: 'jasonlwest@gmail.com', // Change to your recipient
-      from: from,
+      from: 'jlw00329@gmail.com',
       subject: subject,
-      text: message,
+      html: email + '<br>' + message,
     };
+    console.log(msg);
     sgMail.send(msg, (err, info) => {
       if (err) {
-        console.log('Email not Sent');
+        console.log(err);
       } else {
-        alert('Your Email was Sent\nWill redirect you to main page');
+        console.log('email sent.');
+        res.redirect('./success.html');
       }
     });
-    res.redirect('/');
+    // res.redirect('/');
   });
 };

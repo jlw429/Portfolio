@@ -4,6 +4,7 @@
   "description": "Portfolio has been updated from week 2 and have added our group project, weather api dashboard, day planner and multiple choice quiz.",
   "main": "server.js",
   "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
